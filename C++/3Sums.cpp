@@ -11,6 +11,7 @@
 
 //STEP 3: Once the sum is equal we will run loops to make sure we get no duplicate b,c.
 //STEP 4: Once done we run a loop and go to the next a which is not equal to the prev a and do the same thing.
+//CODE
 
 #include <iostream>
 #include <stdlib.h>
